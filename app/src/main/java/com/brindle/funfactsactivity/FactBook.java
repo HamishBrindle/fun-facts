@@ -5,16 +5,19 @@ import java.util.Random;
 public class FactBook {
     // Fields (Member Variables - properties about the object)
     private final String[] mFacts = {
-            "Ants stretch when they wake up in the morning.",
-            "Ostriches can run faster than horses.",
-            "Olympic gold medals are actually made mostly of silver.",
-            "You are born with 300 bones; by the time you are an adult you will have 206.",
-            "It takes about 8 minutes for light from the Sun to reach Earth.",
-            "Some bamboo plants can grow almost a meter in just one day.",
-            "The state of Florida is bigger than England.",
-            "Some penguins can leap 2-3 meters out of the water.",
-            "On average, it takes 66 days to form a new habit.",
-            "Mammoths still walked the earth when the Great Pyramid was being built." };
+            "If everyone on Earth joined hands with one another across the planet, lots of people would drown.",
+            "If you took a person's intestines and stretching it out as far as you could, that person would die!",
+            "There are more stars in space than there are on Earth! Wow.",
+            "Dogs that live in Hawaii are more likely to die choking on a tomato than dogs anywhere else in the world. ",
+            "In 1992, to celebrate his third consecutive year of hosting the Oscars®, Billy Crystal got his nipples pierced.",
+            "Most reptiles are allergic to eye makeup.",
+            "By law, a pregnant woman can pee anywhere she wants to in Britain, even if she chooses, in a police officer’s helmets.",
+            "It is illegal to get a tattoo of a didgeridoo in Adelaide, Australia. ",
+            "Chocolate chip bagels are required to include trace amounts of fluoride. ",
+            "The names of Popeye's four nephews are Pipeye, Peepeye, Pupeye, and Poopeye!",
+            "Asbestos will dissolve in most water-based liquids and can liven up your cup of tea.",
+            "The ampersand was originally referred to a a jumperoo.",
+            "Cod liver oil works well as an anti-perspirant, but is a terrible deodorant."};
 
     public String getFact() {
 
